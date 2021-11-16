@@ -1,0 +1,5 @@
+C:/Users/qq/Documents/github.com/qt_tests/test_02/build-untitled-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/qq/Documents/github.com/qt_tests/test_02/build-untitled-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/untitled.dir
+C:/Users/qq/Documents/github.com/qt_tests/test_02/build-untitled-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/qq/Documents/github.com/qt_tests/test_02/build-untitled-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/Users/qq/Documents/github.com/qt_tests/test_02/build-untitled-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/untitled_autogen.dir
